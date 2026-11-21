@@ -20,6 +20,10 @@ DogEarBooks customizes the bookmark displayed on bookmarked pages while reading.
 
 Gesture availability can depend on your device and KOReader version.
 
+Added new sets, the ability to delete individual images and folders, and a size setting of up to 10
+
+**For delete folder or image: hold folder or image and delete. **
+
 ## Gallery and folders
 
 The library presents image previews across multiple pages. The **Folders** menu lets you browse individual collections and their subfolders.
